@@ -1,0 +1,62 @@
+{
+  "name": "Acme Final test",
+  "tagline": "",
+  "description": "",
+  "phone": "",
+  "phoneRaw": "",
+  "email": "bugs@acme.com",
+  "address": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "full": ""
+  },
+  "owner": {
+    "name": "",
+    "bio": "",
+    "photo": "/images/placeholders/owner-default.jpg"
+  },
+  "logo": "/logo.png",
+  "logoDark": "",
+  "favicon": "/favicon.ico",
+  "colors": {
+    "primary": "#1e3a8a",
+    "secondary": "#3b82f6",
+    "accent": "#e01b24"
+  },
+  "hours": "Mon-Fri: 8am-6pm",
+  "emergencyService": false,
+  "certifications": [],
+  "uniqueSellingPoints": [],
+  "yearsInBusiness": null,
+  "foundedYear": null,
+  "licenseNumber": "",
+  "employeesCount": "",
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "linkedin": "",
+    "youtube": "",
+    "yelp": "",
+    "google": "",
+    "tiktok": ""
+  },
+  "hero": {
+    "headline": "Welcome to Acme Final test",
+    "headlineHighlight": "",
+    "subheadline": "",
+    "ctaPrimary": "Get Free Estimate",
+    "ctaSecondary": "View Our Work",
+    "image": "/images/placeholders/hero-default.jpg",
+    "video": ""
+  },
+  "seo": {
+    "siteUrl": "",
+    "defaultTitle": "Acme Final test",
+    "titleTemplate": "%s | Acme Final test",
+    "description": "",
+    "keywords": []
+  }
+}
